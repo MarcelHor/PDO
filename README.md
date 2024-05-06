@@ -1,2 +1,3 @@
 # PDO
-## Semestrální práce - manuál
+## Bakalářská práce - manuál
+Best i can do.
